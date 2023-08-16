@@ -23,7 +23,7 @@ Each plugin comes with comprehensive installation and usage instructions. You'll
 
 ## License
 
-All my plugins are licensed under the [MIT License](LICENSE). Feel free to use them in both commercial and non-commercial games. If you wish to modify the code, please reach out to me at [danyerusama@gmail.com](mailto:danyerusama@gmail.com) for approval.
+All my plugins are licensed under the [MIT License](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/d218b5695bfde6b2c1581b0c00b16f73c631574c/LICENSE). Feel free to use them in both commercial and non-commercial games. If you wish to modify the code, please reach out to me at [danyerusama@gmail.com](mailto:danyerusama@gmail.com) for approval.
 
 ## Connect with Me
 
