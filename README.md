@@ -28,14 +28,6 @@ Each plugin comes with comprehensive installation and usage instructions. You'll
 
 All my plugins are licensed under the [MIT License](https://github.com/Danyerusama/DYR_IdleVideoTitle/blob/d218b5695bfde6b2c1581b0c00b16f73c631574c/LICENSE). Feel free to use them in both commercial and non-commercial games. If you wish to modify the code, please reach out to me at [danyerusama@gmail.com](mailto:danyerusama@gmail.com) for approval.
 
-## Support my work
-
-If you've found value in the projects, plugins, or insights I provide, I'd greatly appreciate your support. Every contribution, no matter how small, helps me continue dedicating time and effort to create meaningful content and projects for the community. If you'd like support  me and be a part of this journey, you can:
-
-<a href="https://www.buymeacoffee.com/danyerusama"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=danyerusama&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-
-Thank you for considering supporting my work and being a part of this community!
-
 ## Connect with Me
 
 If you have questions, suggestions, or just want to chat about game development, I'd love to hear from you! Connect with me on:
@@ -48,3 +40,25 @@ Thank you for visiting my profile and considering my plugins for your RPG Maker 
 
 ## Suggestions and Feedback
 If you have an idea for a new plugin or script, don't hesitate to share it with me. I'm always eager to explore new possibilities and bring creative solutions to life. Feel free to leave your suggestions or feedback [here](https://github.com/Danyerusama/Danyerusama/issues). Your input is greatly valued and appreciated!
+
+
+## Support my Work
+
+If you've found value in the projects, plugins, or insights I offer, your support would mean the world to me. Even the smallest contribution goes a long way in enabling me to dedicate time and effort to crafting meaningful content and projects for our community. If you're interested in supporting me and becoming a part of this journey, you can do so through:
+
+
+<a href="https://www.patreon.com/Danyerusama">
+    <img src="https://i.ibb.co/hBp4C5F/My-Patreon.png" alt="My Patreon">
+</a>
+
+or
+
+
+<a href="https://paypal.me/Danyerusama?country.x=CO&locale.x=es_XC">
+    <img src="https://i.ibb.co/PFHTmSH/Paypal2.png" alt="My Paypal">
+</a>
+
+
+
+
+Thank you for considering supporting my work and being a part of this community!
