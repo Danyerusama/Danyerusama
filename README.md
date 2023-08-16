@@ -11,14 +11,14 @@ I'm dedicated to contributing to the RPG Maker MV community by developing plugin
 ## Featured Plugins
 ![gestor de Plugin](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/4b2a7976-3359-4a95-a920-f2ccee6e6530)
 
-### [DYR_IdleVideoTitle](https://github.com/Danyerusama/DYR_IdleVideoTitle)
-This plugin allows you to autoplay a video after a certain idle time in the title menu screen. Enhance the opening experience of your game with captivating videos that set the mood and draw players into your world.
+### [DYR_CustomMessage](https://github.com/Danyerusama/DYR_CustomMessage)
+Enrich your game's treasure hunting moments by displaying custom messages and rewards when interacting with treasure events. Customize the player's journey with messages tailored to your game's narrative.
 
 ### [DYR_IdleCommonEvent](https://github.com/Danyerusama/DYR_IdleCommonEvent)
 Trigger a Common Event when players are idle for a certain time. Use this plugin to create dynamic interactions that keep players engaged and provide them with immersive experiences.
 
-### [DYR_CustomMessage](https://github.com/Danyerusama/DYR_CustomMessage)
-Enrich your game's treasure hunting moments by displaying custom messages and rewards when interacting with treasure events. Customize the player's journey with messages tailored to your game's narrative.
+### [DYR_IdleVideoTitle](https://github.com/Danyerusama/DYR_IdleVideoTitle)
+This plugin allows you to autoplay a video after a certain idle time in the title menu screen. Enhance the opening experience of your game with captivating videos that set the mood and draw players into your world.
 
 ## Installation and Usage
 
