@@ -1,3 +1,5 @@
+[Intro](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/5ed7dd47-661c-48f7-8d0d-212f74fe2842)
+
 # Welcome to DANYERUSAMA's GitHub Profile!
 
 Hello and welcome to my GitHub profile! I'm Danyerusama, and I'm passionate about creating and sharing plugins for RPG Maker MV (MZ Coming soon). Here, you'll find a collection of my plugins that aim to enhance your game development experience. Whether you're looking to add interactive elements, unique mechanics, or captivating storytelling, my plugins are designed to help you achieve your creative vision.
