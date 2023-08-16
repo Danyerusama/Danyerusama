@@ -1,4 +1,4 @@
-[Intro](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/5ed7dd47-661c-48f7-8d0d-212f74fe2842)
+![Intro](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/45f02f8f-9df2-4243-9d00-6a220d341235)
 
 # Welcome to DANYERUSAMA's GitHub Profile!
 
