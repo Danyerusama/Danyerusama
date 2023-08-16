@@ -30,7 +30,7 @@ All my plugins are licensed under the [MIT License](https://github.com/Danyerusa
 
 ## Buy me a coffee
 
-If you've found value in the projects, plugins, or insights I provide, I'd greatly appreciate your support. Every contribution, no matter how small, helps me continue dedicating time and effort to create meaningful content and projects for the community. If you'd like to buy me a coffee and be a part of this journey, you can [**support me here**](https://www.buymeacoffee.com/danyerusama).
+If you've found value in the projects, plugins, or insights I provide, I'd greatly appreciate your support. Every contribution, no matter how small, helps me continue dedicating time and effort to create meaningful content and projects for the community. If you'd like to buy me a coffee and be a part of this journey, you can [**buy it here**](https://www.buymeacoffee.com/danyerusama).
 
 Thank you for considering supporting my work and being a part of this community!
 
