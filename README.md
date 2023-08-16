@@ -30,7 +30,7 @@ All my plugins are licensed under the [MIT License](LICENSE). Feel free to use t
 If you have questions, suggestions, or just want to chat about game development, I'd love to hear from you! Connect with me on:
 
 - Discord: [Coming soon]
-- GitHub: [YourGitHubProfile](https://github.com/Danyerusama)
+- GitHub: [Danyerusama](https://github.com/Danyerusama)
 - Email: [danyerusama@gmail.com](mailto:danyerusama@gmail.com)
 
 Thank you for visiting my profile and considering my plugins for your RPG Maker MV projects. Let's create amazing games together!
