@@ -53,6 +53,10 @@ If you've found value in the projects, plugins, or insights I offer, your suppor
 
 or
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A6OB729)
+
+or
+
 
 <a href="https://paypal.me/Danyerusama?country.x=CO&locale.x=es_XC">
     <img src="https://i.ibb.co/PFHTmSH/Paypal2.png" alt="My Paypal">
