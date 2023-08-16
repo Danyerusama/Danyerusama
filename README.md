@@ -9,6 +9,7 @@ Hello and welcome to my GitHub profile! I'm Danyerusama, and I'm passionate abou
 I'm dedicated to contributing to the RPG Maker MV community by developing plugins that empower fellow game creators. I believe that plugins can elevate your game to the next level, making it more engaging and memorable for players. Through meticulous design and attention to detail, I strive to provide solutions that streamline your workflow and open new avenues for creative expression.
 
 ## Featured Plugins
+![gestor de Plugin](https://github.com/Danyerusama/DYR_IdleVideoTitle/assets/142346653/4b2a7976-3359-4a95-a920-f2ccee6e6530)
 
 ### [DYR_IdleVideoTitle](https://github.com/Danyerusama/DYR_IdleVideoTitle)
 This plugin allows you to autoplay a video after a certain idle time in the title menu screen. Enhance the opening experience of your game with captivating videos that set the mood and draw players into your world.
