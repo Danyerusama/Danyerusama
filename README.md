@@ -2,7 +2,7 @@
 # Welcome to DANYERUSAMA's GitHub Profile!
 ![Intro](https://github.com/Danyerusama/Danyerusama/assets/142346653/09f7aef2-26ab-4632-8621-2948a4a9517b)
 
-Hello and welcome to my GitHub profile! I'm Danyerusama, and I'm passionate about creating and sharing plugins for RPG Maker MV (MZ Coming soon). Here, you'll find a collection of my plugins that aim to enhance your game development experience. Whether you're looking to add interactive elements, unique mechanics, or captivating storytelling, my plugins are designed to help you achieve your creative vision.
+Hello and welcome to my GitHub profile! I'm Danyerusama, a passionate indie game developer dedicated to creating and sharing plugins for RPG Maker MV (MZ Coming soon). Here, you'll find a collection of my plugins aimed at enhancing your game development experience. Whether you're looking to integrate interactive elements, unique mechanics, or compelling storytelling, my plugins are designed to support you in realizing your creative vision.
 
 ## My Contributions
 
